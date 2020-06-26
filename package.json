@@ -1,0 +1,27 @@
+{
+  "name": "distributed-workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cluster.js",
+  "scripts": {
+    "start": "node cluster",
+    "dev": "NODE_ENV=development nodemon cluster",
+    "docker:start": "docker-compose -f docker-compose.yml up -d",
+    "docker:down": "docker-compose -f docker-compose.yml down",
+    "docker:down:v": "docker-compose -f docker-compose.yml down -v",
+    "test:data": "node test.js"
+  },
+  "keywords": ["nodejs", "worker", "cluster", "bull", "distributed worker"],
+  "author": "Olga Gorobchenko<ejikvseti@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^3.14.0",
+    "config": "^3.3.1",
+    "follow-redirects": "^1.12.1",
+    "log4js": "^6.3.0",
+    "mongoose": "^5.9.20"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

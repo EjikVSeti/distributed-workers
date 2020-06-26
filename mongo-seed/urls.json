@@ -1,0 +1,157 @@
+[
+  {
+    "url": "https://proxify.io",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://google.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://facebook.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://linkedin.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://instagram.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://reddit.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://books.google.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://homedepot.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://quizlet.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://groupon.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://retailmenot.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://usnews.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://amazon.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://yelp.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://imdb.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://fandom.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://pinterest.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://tripadvisor.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://walmart.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://craigslist.org",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://ebay.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://play.google.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://healthline.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://etsy.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://indeed.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://apple.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://expedia.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://wikihow.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://ign.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://wowhead.com",
+    "status": "NEW",
+    "http_code": null
+  },
+  {
+    "url": "https://chase.com",
+    "status": "NEW",
+    "http_code": null
+  }
+]

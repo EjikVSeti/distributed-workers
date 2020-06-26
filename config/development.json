@@ -1,0 +1,8 @@
+{
+    "mongoUri": "mongodb://localhost:27017/urls-db",
+    "redisOptions": {
+        "host": "localhost",
+        "port": 6379,
+        "password": "sOmE_sEcUrE_pAsS"
+    }
+}
